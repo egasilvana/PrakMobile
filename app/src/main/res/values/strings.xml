@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">modul1</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="title_activity_description">Description</string>
+    <string name="title_activity_descriptionn">descriptionn</string>
+</resources>
